@@ -251,10 +251,13 @@ export default function Home() {
 
               <div className="flex flex-wrap gap-3">
                 {[
-                  "Teamwork",
-                  "Leadership",
-                  "Problem Solving",
-                  "Communication",
+                  "Cross-Functional Teamwork",
+                  "Site Situational Awareness",
+                  "Safety Leadership & Influence",
+                  "Crisis & Emergency Communication",
+                  "Decision-Making Under Pressure",
+                  "Collaborative Problem Solving",
+                  "Toolbox Talks & Safety Briefings",
                 ].map((skill) => (
                   <span
                     key={skill}
