@@ -19,11 +19,16 @@ export function Footer() {
           <a href="#skills-section" className="hover:text-cyan-400 transition">
             Skills
           </a>
-          <a href="#certificates-section" className="hover:text-cyan-400 transition">
-            Certificates
-          </a>
           <a href="#contact-section" className="hover:text-cyan-400 transition">
             Contact
+          </a>
+          <a
+            href="https://www.linkedin.com/in/ziad-tamer-ayesh/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-cyan-400 transition"
+          >
+            LinkedIn
           </a>
         </div>
 

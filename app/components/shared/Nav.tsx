@@ -38,11 +38,16 @@ export default function Navbar() {
           <a href="#skills-section" className="hover:text-cyan-400">
             Skills
           </a>
-          <a href="#certificates-section" className="hover:text-cyan-400">
-            Certificates
-          </a>
           <a href="#contact-section" className="hover:text-cyan-400">
             Contact
+          </a>
+          <a
+            href="https://www.linkedin.com/in/ziad-tamer-ayesh/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-cyan-400"
+          >
+            LinkedIn
           </a>
         </div>
 
@@ -64,11 +69,16 @@ export default function Navbar() {
           <a href="#skills-section" className="block">
             Skills
           </a>
-          <a href="#certificates-section" className="block">
-            Certificates
-          </a>
           <a href="#contact-section" className="block">
             Contact
+          </a>
+          <a
+            href="https://www.linkedin.com/in/ziad-tamer-ayesh/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="block hover:text-cyan-400"
+          >
+            LinkedIn
           </a>
         </div>
       )}
